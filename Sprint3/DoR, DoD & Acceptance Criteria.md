@@ -62,3 +62,7 @@ Descrevendo utilizando cenários:
             E ser apresentado a opção‘’Relatório de Produtos em Estoque’’
 
          Então ele deve conseguir gerar o relatório ```
+ ### DICAS:
+* *Utilize o acrônimo INVEST* – isso garantirá que sua história esteja o mais completa possível, possibilitando maior entendimento do seu time, eliminando, assim, possíveis falhas ou retrabalho.
+* *Liste os critérios de aceitação* – sempre tenha definido quais são as condições, restrições e as regras de negócio do produto.
+* *Descreva os cenários* – Utilize a técnica BDD para descrever os cenários daquela história. É importante que os cenários de testes sejam mapeados, em âmbito de negócio e comportamento.
