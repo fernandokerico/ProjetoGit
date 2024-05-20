@@ -50,9 +50,9 @@
 
 **A explicação de cada conceito é resumida em:**
 
-**Erro _(engano):_** ação humana que produz resultados incorretos, como por exemplo, a implementação errada de um algoritmo;
-**Defeito _(bug):_** falha em um sistema que pode ocasionar uma anomalia ao tentar desempenhar sua devida função. Por exemplo, omissão de informações e cálculos incorretos;
-**Falha:** ação inesperada no software. Por exemplo, o sistema apresenta resultados diferentes do planejado.
+* **Erro _(engano):_** ação humana que produz resultados incorretos, como por exemplo, a implementação errada de um algoritmo;
+* **Defeito _(bug):_** falha em um sistema que pode ocasionar uma anomalia ao tentar desempenhar sua devida função. Por exemplo, omissão de informações e cálculos incorretos;
+* **Falha:** ação inesperada no software. Por exemplo, o sistema apresenta resultados diferentes do planejado.
 
 * O problema encontrado é um **defeito** ou uma **melhoria**? Para responder a esse questionamento, lembre-se sempre que a **melhoria** deve ser sugerida para proporcionar algum benefício no software, enquanto o **erro** impactará na obtenção de um resultado diferente do esperado;
 * **O quão crítico é o bug?** Cada bug encontrado deve ser classificado de acordo com a sua criticidade. Para isso, é essencial definir qual será o impacto no projeto caso o problema não seja resolvido;

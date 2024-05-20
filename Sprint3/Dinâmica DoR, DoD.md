@@ -1,6 +1,7 @@
 # Dinâmica
- ``` Agora que vocês entendem melhor os conceitos de Definição de Pronto, Definição de Feito e Critérios de aceite, com base neste conhecimento, pense em como uma User Story para uma API pública poderia ser criada, imaginando que alguma funcionalidade da API ainda não foi desenvolvida, pense em como poderíamos tornar claro quando a tarefa poderia iniciar, quando ela estaria finalizada, e como poderíamos garantir que todos pontos importantes foram levantados para que ela funcione e seja validada da maneira como desejamos.
-
+***
+**Agora que vocês entendem melhor os conceitos de Definição de Pronto, Definição de Feito e Critérios de aceite, com base neste conhecimento, pense em como uma User Story para uma API pública poderia ser criada, imaginando que alguma funcionalidade da API ainda não foi desenvolvida, pense em como poderíamos tornar claro quando a tarefa poderia iniciar, quando ela estaria finalizada, e como poderíamos garantir que todos pontos importantes foram levantados para que ela funcione e seja validada da maneira como desejamos.**
+*** 
 Para esta atividade você deverá escolher uma API pública (à sua escolha, alguns exemplos são: Spotify, Github, ServeRest), e com base nesta API, escrever uma User Story levantando DoR, DoD e Acceptance Criteria, podendo a Story ser algo que vocês imaginem como "novo" na API ou algo que já foi desenvolvido.```
 
 ![APISpotify](https://www.vecteezy.com/video/33861501-music-player-green-screen)
