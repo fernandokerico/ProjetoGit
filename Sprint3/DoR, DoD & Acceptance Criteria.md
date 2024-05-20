@@ -107,8 +107,8 @@ possuir permissão a opção de relatório ''Produtos em Estoque''.
 * Eu quero visualizar a agenda de consultas do mês atual e do mês posterior.
 * Cada consulta agendada deve mostrar o nome e o convênio do paciente
 
-# **__________________________________________________________________________**
-*** 
+***
+
 * **⟹ Quando o time deve criar a sua DoR e DoD?**
 Idealmente, o time deve criar antes da primeira sprint. Porém, caso o seu time ainda não tenha uma definição de ready e/ou done criada, ou que não esteja clara para todos, uma boa oportunidade é levantar o assunto sobre a oportunidade de criarem a sua DoR e/ou DoD durante a retrospectiva.
 
