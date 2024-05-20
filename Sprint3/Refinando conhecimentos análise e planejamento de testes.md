@@ -107,7 +107,7 @@ Voce é o conselheiro do rei:
 - Divida suas tarefas em quadrantes, realize suas tarefas em momentos oportunos, coloque tempos de descanso entre eles, mas sempre volte ao trabalho após.
 Se desligue do resto, foque apenas na atividade em questão, 25 minutos de trabalho e 5 de descanso, tente disponibilizar 1:30h da sua vida só para aquilo.
 
-Ajuda do colega Arthur Donanussi.
+>Ajuda do colega Arthur Donanussi.
 
 # Planejamento de Testes
     Vantagem competitiva e vantagem
