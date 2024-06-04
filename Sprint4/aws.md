@@ -9,7 +9,7 @@ O visual a seguir descreve as tendências na evolução da computação. Quanto 
 
 ### Variedades e serviços AWS
 
-!(https://explore.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1717434000/ag-MpCY7Pq4YI5b_00evqA/tincan/938093_1660191117_p1ga5heg5o1r7smji17jp1pi816hpk_zip/assets/6-radHndZ0Rpcmrd_wwX01A9SEeOBVlVT.png)
+![Variedades e serviços AWS](https://explore.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1717434000/ag-MpCY7Pq4YI5b_00evqA/tincan/938093_1660191117_p1ga5heg5o1r7smji17jp1pi816hpk_zip/assets/6-radHndZ0Rpcmrd_wwX01A9SEeOBVlVT.png)
 
 * Computação
 
