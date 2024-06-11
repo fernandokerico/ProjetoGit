@@ -200,3 +200,7 @@
         * criação de scripts
         * execução de testes
         * Análise dos insumos coletados no teste
+
+        # JMETER
+        Apache JMeter
+        open source 100% em Java.
